@@ -6,4 +6,5 @@ This work contains the implementation of two community detection algorithms: Gir
 To download the dataset, please visit
 
 (a) https://snap.stanford.edu/data/wiki-Vote.html
+
 (b) https://snap.stanford.edu/data/feather-lastfm-social.html
